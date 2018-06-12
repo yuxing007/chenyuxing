@@ -137,7 +137,7 @@ html{
 ----
 
 * 前端开发
-* Jquery 开发
+* jQuery 开发
 * Node.js 开发
 * 前端授课
 * Linux系统应用开发
